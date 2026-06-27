@@ -344,4 +344,10 @@ This project is licensed under the MIT License.
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Application:** https://ai-deadline-guardian.vercel.app
+
+📂 **Source Code:** https://github.com/amishbuilds/AI-Deadline-Guardian
+
 ## 🌟 If you like this project, consider giving it a star!
